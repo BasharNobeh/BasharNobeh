@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">A Graduated Software Engineer 👨‍</h1>
+<h1 align="center">Flutter Developer 👨</h1>
 
 </div>
 
